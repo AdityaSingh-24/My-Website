@@ -1,0 +1,122 @@
+body{
+  margin : 0;
+  color : #40514E;
+  text-align: center;
+}
+h1{
+  margin : 0;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+.top-container{
+  background-color: #e3fdfd;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 5%;
+  padding: 50px 0 50px;
+  margin-top: 2%
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.footer-link1{
+  color: #11999E;
+  margin-right: 2%;
+  padding-top: 1.2rem;
+  text-decoration: none;
+}
+.footer-link2{
+  color: #11999E;
+    margin-right: 2%;
+    padding-top: 1.2rem;
+    text-decoration: none;
+}
+.footer-link3{
+  color: #11999E;
+  padding-top: 1.2rem;
+  text-decoration: none;
+}
+.footer-link1:hover{
+  color: #EAF6F6;
+}
+.footer-link2:hover{
+  color: #EAF6F6;
+}
+.footer-link3:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color: #EAF6F6;
+  padding: 20px 0px;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.profile{
+  padding-top: 3%;
+}
+.hor{
+  padding-top: 5%;
+}
+.my-skills{
+  padding-bottom: 8%;
+}
+.hor2{
+  padding-top: 5%;
+}
+.icon{
+  color: #890596;
+}
+.icon:hover{
+  color: #00ADB5;
+}
+#Education{
+  margin-bottom: 10%;
+}
+p{
+  color: grey;
+}
+.my-education{
+  padding: 0 0 5% 0;
+}
+.heading{
+  padding-bottom: 4%;
+}
+.abt{
+  color: #fff;
+}
+.bottom-container{
+  text-align: center;
+}
+.para{
+  color: #000;
+}
+.icon1{
+  text-decoration: none;
+}
